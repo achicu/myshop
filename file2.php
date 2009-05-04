@@ -6,7 +6,7 @@ class User
     
     public function __construct()
     {
-        $name = "";
+        $name = "<null>";
     }
 }
 
